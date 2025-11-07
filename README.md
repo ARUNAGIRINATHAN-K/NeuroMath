@@ -1,33 +1,45 @@
 ![](NEURALNETWORKSFROMSCRACTH.png)
-# 🧠 Neural Networks from Scratch – Math-Based Projects
+
+
+<div align="center">
+
+# NeuroMath
+
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/arun-techverse/neural-networks-from-scratch-math-projects?style=social)](https://github.com/arun-techverse/neural-networks-from-scratch-math-projects/stargazers)
+[![Forks](https://img.shields.io/github/forks/arun-techverse/neural-networks-from-scratch-math-projects?style=social)](https://github.com/arun-techverse/neural-networks-from-scratch-math-projects/network/members)
+[![LinkedIn](https://img.shields.io/badge/Read%20My-LinkedIn%20Article-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7371716672921051136?collapsed=1)
+
+**A comprehensive collection of foundational Artificial Neural Network projects built from scratch with pure mathematics**
+
+</div>
+
+---
 
 - Welcome to this curated collection of 10 foundational Artificial Neural Network (ANN) projects — built completely <br>
 from scratch, with a focus on mathematical understanding over library abstraction.
 - This repository is perfect for students, educators, and self-learners who want to truly grasp the internals <br>
 of how ANNs work from perceptrons to time series forecasting.
 
+## 🗂️ Projects
 
+| # | Project | Focus Area | Key Concepts |
+|---|---------|------------|--------------|
+| **01** | [Perceptron Learning](01_nn_from_scratch) | Fundamentals | Linear separability, weight updates, binary classification |
+| **02** | [XOR with MLP](02_xor_classification) | Non-linearity | Multi-layer networks, backpropagation, XOR problem |
+| **03** | [MNIST Digit Recognition](03_mnist_digit_recognition) | Multi-class | Softmax, cross-entropy loss, image classification |
+| **04** | [Neural Network Visualizer](04_nn_visualizer) | Training Dynamics | Weight evolution, decision boundaries, visualization |
+| **05** | [Custom Dataset ANN](05_custom_dataset_ann) | Practical ML | Tabular data, preprocessing, label encoding |
+| **06** | [Loss Landscape](06_loss_landscape) | Optimization | Loss surface visualization, local minima, optimization geometry |
+| **07** | [Backpropagation Simulator](07_backprop_simulator) | Core Algorithm | Chain rule, gradient flow, matrix calculus |
+| **08** | [Activation Function Analysis](08_activation_function_analysis) | Function Comparison | ReLU, Sigmoid, Tanh, gradient behavior |
+| **09** | [Dropout Regularization](09_dropout_regularization) | Generalization | Manual dropout, overfitting prevention, ensemble effect |
+| **10** | [Time Series Forecasting](10_time_series_ann) | Sequence Modeling | Sliding window, ANN regression, temporal patterns |
 
-<p align="center">
-   
-![GitHub stars](https://img.shields.io/github/stars/arun-techverse/neural-networks-from-scratch-math-projects?style=social) ![Forks](https://img.shields.io/github/forks/arun-techverse/neural-networks-from-scratch-math-projects) [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)   [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing) [![LinkedIn Article](https://img.shields.io/badge/Read%20My-LinkedIn%20Article-blue?logo=linkedin)]("https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7371716672921051136?collapsed=1")
-
-</p>
-
-## 📦 Project Structure
-
-| #  | Folder                             | Project                         | Key Concepts                         |
-| -- | ---------------------------------- | ------------------------------- | ------------------------------------ |
-| 01 | [01_perceptron_learning](01_nn_from_scratch)          | Perceptron Learning Rule        | Linear separability, weight updates  |
-| 02 | [02_xor_mlp](02_xor_classification)                      | XOR with MLP                    | Non-linearity, backpropagation       |
-| 03 | [03_mnist_digit_recognition](03_mnist_digit_recognition)     | MNIST Digit Recognition         | Multi-class classification, softmax  |
-| 04 | [04_nn_visualizer](04_nn_visualizer)                | Neural Network Visualizer       | Training dynamics, weight evolution  |
-| 05 | [05_custom_dataset_ann](05_custom_dataset_ann)          | Custom Dataset ANN              | Tabular data, label encoding         |
-| 06 | [06_loss_landscape](06_loss_landscape)              | Loss Surface Visualization      | Loss contours, optimization geometry |
-| 07 | [07_backprop_simulator](07_backprop_simulator)           | Backpropagation Simulator       | Chain rule, matrix calculus          |
-| 08 | [08_activation_function_analysis](08_activation_function_analysis) | Activation Function Comparison  | ReLU vs. Sigmoid vs. Tanh            |
-| 09 | [09_dropout_regularization](09_dropout_regularization)       | Dropout Regularization (Manual) | Overfitting prevention               |
-| 10 | [10_time_series_ann](10_time_series_ann)              | Time Series Forecasting         | Sliding window, ANN regression       |
 
 ## Conceptual Architecture of "Mathematics of ANN"
 
