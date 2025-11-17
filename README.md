@@ -10,7 +10,7 @@ of how ANNs work from perceptrons to time series forecasting.
 
 <p align="center">
    
-![GitHub stars](https://img.shields.io/github/stars/arun-techverse/NeuroMath?style=social) ![Forks](https://img.shields.io/github/forks/arun-techverse/NeuroMath) [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)   [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing) [![LinkedIn Article](https://img.shields.io/badge/Read%20My-LinkedIn%20Article-blue?logo=linkedin)]("https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7371716672921051136?collapsed=1")
+![GitHub stars](https://img.shields.io/github/stars/ARUNAGIRINATHAN-K/NeuroMath?style=social) ![Forks](https://img.shields.io/github/forks/ARUNAGIRINATHAN-K/NeuroMath) [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)  [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)   [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#-contributing) [![LinkedIn Article](https://img.shields.io/badge/Read%20My-LinkedIn%20Article-blue?logo=linkedin)]("https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7371716672921051136?collapsed=1")
 
 </p>
 
