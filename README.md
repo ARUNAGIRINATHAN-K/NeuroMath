@@ -91,8 +91,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/arun-techverse/neural-networks-from-scratch-math-projects.git
-cd neural-networks-from-scratch-math-projects
+git clone https://github.com/ARUNAGIRINATHAN-K/NeuroMath.git
+cd NeuroMath
 
 # Create virtual environment (recommended)
 python -m venv venv
