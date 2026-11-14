@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use NeuroMath in your research, academic courses, or technical publications, please cite it as below."
+title: "NeuroMath: The Mathematical Engine of Neural Networks from First Principles"
+authors:
+  - family-names: "K"
+    given-names: "Arunagirinathan"
+repository-code: "https://github.com/ARUNAGIRINATHAN-K/NeuroMath"
+url: "https://github.com/ARUNAGIRINATHAN-K/NeuroMath"
+license: "MIT"
+keywords:
+  - "artificial neural networks"
+  - "backpropagation"
+  - "deep learning"
+  - "linear algebra"
+  - "calculus"
+  - "numpy"
+

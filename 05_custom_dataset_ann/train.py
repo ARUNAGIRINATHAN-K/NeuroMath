@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
@@ -5,8 +6,9 @@ from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential # type: ignore
 from tensorflow.keras.layers import Dense # type: ignore
 
-# Load dataset
-data = pd.read_csv("/workspaces/ANN-Mathematics-Projects/05_custom_dataset_ann/dataset.csv")
+# Load dataset relative to script directory
+dataset_path = os.path.join(os.path.dirname(__file__), "dataset.csv")
+data = pd.read_csv(dataset_path)
 
 # Separate features and labels
 X = data.drop("label", axis=1).values

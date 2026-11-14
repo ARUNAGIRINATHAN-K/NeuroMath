@@ -35,6 +35,10 @@ history = model.fit(x_train, y_train_cat, epochs=10, batch_size=128, validation_
 test_loss, test_acc = model.evaluate(x_test, y_test_cat)
 print(f"Test Accuracy: {test_acc:.4f}")
 
+# Save trained weights
+model.save_weights('mlp_weights.h5')
+print("Model weights successfully saved to mlp_weights.h5")
+
 # Plot training history
 plt.plot(history.history['accuracy'], label='Train Acc')
 plt.plot(history.history['val_accuracy'], label='Val Acc')
