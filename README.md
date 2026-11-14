@@ -2,7 +2,7 @@
 
 **The mathematical engine of neural networks, engineered from first principles in pure Python and NumPy.**
 
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.21+-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![CI](https://github.com/ARUNAGIRINATHAN-K/NeuroMath/actions/workflows/ci.yml/badge.svg)](https://github.com/ARUNAGIRINATHAN-K/NeuroMath/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
@@ -47,7 +47,7 @@ Modern deep learning frameworks (PyTorch, JAX, TensorFlow) abstract foundational
 ## Quickstart
 
 ### Prerequisites
-* Python 3.9 or higher
+* Python 3.10 or higher
 * `pip` package manager
 
 ### 1. Clone & Set Up Environment

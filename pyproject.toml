@@ -10,7 +10,7 @@ authors = [
 ]
 description = "The mathematical engine of neural networks, engineered from first principles in pure Python and NumPy."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 keywords = [
   "neural-networks",
